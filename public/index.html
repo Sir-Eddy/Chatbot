@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/username.js"></script>
+    <script src="js/jquery.js"></script>
+    <script src="js/chat.js" defer></script>
+    <title>Chatbot</title>
+</head>
+
+<body>
+    <nav class="navbar">
+        <ul>
+            <li><a href="index.html">Chatbot</a></li>
+            <li><a href="user.html">Benutzer</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="faq.html">FAQ</a></li>
+        </ul>
+    </nav>
+    <div id="loginModal" class="modal">
+        <div class="modal-content">
+            <h3>Registrierung</h3>
+            <input type="text" id="username" placeholder="Neuer Benutzername...">
+            <button onclick="setInitUser()">Start</button>
+        </div>
+    </div>
+    <div id="messenger">
+        <header class="messenger-header">
+            <h3>IT-Chatbot</h3>
+        </header>
+        <div class="messages" id="msgs"></div>
+        <form class="input-area" id="chatForm">
+            <input type="text" id="msg" placeholder="Schreibe eine Nachricht...">
+            <button type="submit" id="sendBtn">Senden</button>
+        </form>
+    </div>
+</body>
+
+</html>
