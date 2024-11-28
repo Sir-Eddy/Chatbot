@@ -2,6 +2,8 @@
 
 An intelligent web chatbot designed to assist users with IT-related questions. It features a modern interface and a dynamic conversation flow to provide accurate and context-aware solutions.
 
+![Screenshot der Anwendung](images/screenshot.png)
+
 ## 📋 Project Overview
 
 The IT Support Chatbot is built to:
