@@ -25,5 +25,3 @@ Um das Projekt zu nutzen oder weiterzuentwickeln, sind folgende Voraussetzungen 
 - **Node.js**  
 - **Visual Studio Code**  
 - **Google Chrome**  
-
-Außerdem wird grundlegendes Wissen in Webentwicklung (wie in früheren Übungen behandelt) empfohlen.
