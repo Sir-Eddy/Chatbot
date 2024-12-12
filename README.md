@@ -1,29 +1,29 @@
-# IT Support Chatbot
+# IT-Support-Chatbot
 
-An intelligent web chatbot designed to assist users with IT-related questions. It features a modern interface and a dynamic conversation flow to provide accurate and context-aware solutions.
+Ein intelligenter Web-Chatbot, der entwickelt wurde, um Nutzer bei IT-bezogenen Fragen zu unterstützen. Er bietet eine moderne Benutzeroberfläche und einen dynamischen Gesprächsfluss, um präzise und kontextbezogene Lösungen bereitzustellen.
 
 ![Screenshot der Anwendung](images/screenshot.png)
 
-## 📋 Project Overview
+## 📋 Projektübersicht
 
-The IT Support Chatbot is built to:
+Der IT-Support-Chatbot wurde entwickelt, um:
 
-- **Provide IT Solutions**: Answer technical queries on IT topics.
-- **Dynamic Dialogue**: Avoid repetitive responses and refer to prior conversation history.
-- **Fallback System**: Offer context-aware fallback suggestions for unclear inputs.
-- **Proactive Engagement**: Use counter-questions to guide conversations effectively.
-- **Modern Interface**: Ensure a sleek, user-friendly design for a professional experience.
+- **IT-Lösungen bereitzustellen**: Beantwortung technischer Fragen zu IT-Themen.  
+- **Dynamische Dialoge zu ermöglichen**: Vermeidung von Wiederholungen und Nutzung der Gesprächshistorie.  
+- **Fallback-Optionen zu bieten**: Kontextbezogene Vorschläge bei unklaren Eingaben anzubieten.  
+- **Proaktive Gespräche zu fördern**: Durch Gegenfragen die Konversation effektiv zu lenken.  
+- **Eine moderne Oberfläche bereitzustellen**: Ein schlankes, benutzerfreundliches Design für eine professionelle Erfahrung sicherzustellen.  
 
-## 🚀 Objective
+## 🚀 Zielsetzung
 
-Simulate a realistic IT support session with at least 10 exchanges, ensuring the user feels they are interacting with an actual IT expert.
+Eine realistische IT-Support-Sitzung mit mindestens 10 Austauschphasen simulieren, damit der Nutzer das Gefühl hat, mit einem echten IT-Experten zu interagieren.
 
-## ⚙️ Prerequisites
+## ⚙️ Voraussetzungen
 
-To use or develop this project, ensure the following are installed:
+Um das Projekt zu nutzen oder weiterzuentwickeln, sind folgende Voraussetzungen notwendig:
 
-- **Node.js**
-- **Visual Studio Code**
-- **Google Chrome**
+- **Node.js**  
+- **Visual Studio Code**  
+- **Google Chrome**  
 
-Additionally, prior knowledge of basic web development (as covered in earlier exercises) is recommended.
+Außerdem wird grundlegendes Wissen in Webentwicklung (wie in früheren Übungen behandelt) empfohlen.
